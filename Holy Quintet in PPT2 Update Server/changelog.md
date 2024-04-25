@@ -3,4 +3,4 @@
   - Main Voice is the Normal ENG Dub while Alt Voice is the 30 Seconds Abridged
 
 ## Holy Quintet in PPT2 Beta Initial
-- Beta Release
+- Beta Initial Release
