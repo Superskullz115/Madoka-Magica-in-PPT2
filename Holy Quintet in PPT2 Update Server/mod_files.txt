@@ -1,1 +1,16 @@
+add raw/sound/BGM_DL3.acb
+add raw/sound/BGM_DL3.awb
+add raw/sound/ROS_00C_en.acb
+add raw/sound/ROS_00_en.acb
+add raw/sound/chara_sel_en.acb
+add raw/text/text_common_en.pac
+add raw/ui/character/bracket.pac
+add raw/ui/character/charaselect_1p2p.pac
+add raw/ui/character/gamesetting_1p2p.pac
+add raw/ui/character/player.pac
+add raw/ui/character/result.pac
+add raw/ui/character/standby_club_2p.pac
+add raw/ui/character/standby_club_4p.pac
+add raw/ui/field_chara_bg.pac
+add raw/ui/ui_charaselect_icon.pac
 add mod.ini
