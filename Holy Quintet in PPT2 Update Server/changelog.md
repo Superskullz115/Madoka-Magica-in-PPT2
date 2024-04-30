@@ -1,6 +1,6 @@
-## Holy Quintet in PPT2 Beta 0.1.4
+## Holy Quintet in PPT2 Beta 0.1.5
 - Madoka, Sayaka, Mami, Kyoko, and Kyubey icons added to select screen
-- Result quotes and info in "Endurance" implemented
+- Result quotes, ui, and info in "Endurance" implemented
 
 ## Holy Quintet in PPT2 Beta 0.1
 - Homura PPQ renders and EN voicelines added into the game
