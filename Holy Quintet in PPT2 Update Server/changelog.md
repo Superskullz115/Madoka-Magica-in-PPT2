@@ -1,3 +1,6 @@
+## Holy Quintet in PPT2 Beta 0.2.0
+- Added Madoka a little bit of Madoka lines (imcomplete for now)
+
 ## Holy Quintet in PPT2 Beta 0.1.9
 - Changed modded BGM cause copyright claims and blocks the vod if you were to stream it
 

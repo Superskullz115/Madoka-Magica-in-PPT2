@@ -2,6 +2,7 @@ add raw/sound/BGM_DL3.acb
 add raw/sound/BGM_DL3.awb
 add raw/sound/ROS_00C_en.acb
 add raw/sound/ROS_00_en.acb
+add raw/sound/HRP_00_en.acb
 add raw/sound/chara_sel_en.acb
 add raw/text/text_common_en.pac
 add raw/ui/character/bracket.pac
