@@ -1,3 +1,6 @@
+## Holy Quintet in PPT2 Beta 0.1.9
+- Changed modded BGM cause copyright claims and blocks the vod if you were to stream it
+
 ## Holy Quintet in PPT2 Beta 0.1.8
 - Madoka, Sayaka, Mami, Kyoko, and Kyubey icons and char portraits added to select and result screens
 - Result quotes, some ui, and info in "Endurance" implemented
